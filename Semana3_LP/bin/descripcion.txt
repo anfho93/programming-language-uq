@@ -1,0 +1,5 @@
+Este proyecto contiene ejemplos basicos sobre la implementacion de excepciones.
+
+link de la bibliografia
+
+https://www.artima.com/objectsandjava/webuscript/Exceptions1.html
